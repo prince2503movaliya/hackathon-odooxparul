@@ -115,7 +115,6 @@ The platform is designed with a scalable architecture, responsive UI, secure bac
 ---
 
 ## DevOps & Tools
-- Docker
 - Git & GitHub
 - Swagger/OpenAPI
 - Postman
